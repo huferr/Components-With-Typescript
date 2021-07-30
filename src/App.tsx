@@ -5,9 +5,9 @@ function App() {
   return (
     <>
       <div>
-        <Button>BOTÃO</Button>
-        <Button color="secondary">CLIQUE AQUI</Button>
-        <Button disabled={true}>DESABILIDADO</Button>
+        <Button>BUTTON</Button>
+        <Button color="secondary">CLICK HERE</Button>
+        <Button disabled={true}>DISABLED</Button>
       </div>
       <Globalstyles />
     </>
